@@ -96,34 +96,6 @@ INFILTRATION (PENTESTING)       [||||||||||||||||] 100%
 <br/>
 
 
-<!-- ═══════════════════ SECTION 4: SKYNET TELEMETRY (STATS) ═══════════════════ -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/📡-SKYNET_TELEMETRY-FF0000?style=for-the-badge&labelColor=000000&color=000000" />
-
-<br/><br/>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=janushsahni&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=C0C0C0&bg_color=000000&ring_color=FF0000&include_all_commits=true" alt="GitHub Stats" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janushsahni&layout=compact&hide_border=true&title_color=FF0000&text_color=C0C0C0&bg_color=000000&langs_count=8" alt="Top Languages" width="45%" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=janushsahni&bg_color=000000&color=FF0000&line=8B0000&point=FF0000&area=true&area_color=400000&hide_border=true&custom_title=TERMINATION_FREQUENCY" alt="Activity Graph" width="80%" />
-
-</div>
-
-<br/>
-
-<!-- Separator -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-</div>
-
-<br/>
-
 
 <!-- ═══════════════════ SECTION 5: COMMUNICATIONS NETWORK ═══════════════════ -->
 
